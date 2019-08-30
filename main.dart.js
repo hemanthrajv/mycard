@@ -17769,7 +17769,7 @@ u=Y.j("ticker",u,!0,r,s,!1,r,r,C.c,!1,!0,!1,C.d,r,M.cp)
 C.a.h(a.a,u)}}
 F.BG.prototype={
 N:function(a){var u=Q.b7(255,26,26,26),t=Q.b7(255,26,26,26)
-return new S.mv(new F.BH(null),"Hemnath Raj",X.G0(Q.b7(255,207,54,50),C.a4,u,"LexendExa",t,C.iR),null)}}
+return new S.mv(new F.BH(null),"Hemanth Raj".toUpperCase(),X.G0(Q.b7(255,207,54,50),C.a4,u,"LexendExa",t,C.iR),null)}}
 F.BH.prototype={
 N:function(a){var u=null,t=K.aY(a).r,s=new N.pj(u),r=M.bB(C.B,L.rH("CLICK TO FLIP CARD",u,u,u),u,u,u,u,u,u,C.a0,u,1/0),q=[N.aj]
 return new M.kD(new E.oV(r,!0,new Q.Y(1/0,56),u),T.kI(C.aW,H.f([T.jI(H.f([T.fI(M.bB(u,u,t,u,u,u,u,u,u,u,u)),T.fI(M.bB(u,u,u,u,u,u,u,u,u,u,u))],q),C.ac),new M.DZ(M.bB(C.B,s,u,u,u,u,1/0,u,new V.aQ(24,24,24,24),u,1/0),M.bB(C.B,new T.jG(C.B,u,u,M.bB(u,s,u,new S.aa(0,501,0,500),u,u,u,u,u,u,u),u),u,u,u,u,1/0,u,new V.aQ(56,56,56,56),u,1/0),u)],q),C.bs),u)}}
